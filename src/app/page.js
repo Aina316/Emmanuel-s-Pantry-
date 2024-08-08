@@ -87,7 +87,7 @@ const filteredPantry = pantry.filter(item =>
     sx={{ bgcolor: 'green' }} // Change background color to green
     >
     <Typography variant="h2" component="h1" gutterBottom color={'black'}>
-        Emmanuel's Pantry Tracker
+        Emmanuel&apos;s Pantry Tracker
       </Typography>
 
       <Modal
